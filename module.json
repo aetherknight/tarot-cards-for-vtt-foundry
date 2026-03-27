@@ -1,0 +1,28 @@
+{
+  "id": "aetherkns-hmtw-data",
+  "title": "ÆtherKn's HMTW Data",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "ÆtherKn",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "hmtw-card-decks",
+      "label": "HMTW Card Decks",
+      "path": "packs/hmtw-card-decks",
+      "type": "Cards",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}

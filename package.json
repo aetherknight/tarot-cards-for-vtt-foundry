@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3",
+    "eslint": "^10.1.0",
+    "fs-extra": "^11.3.4",
+    "gulp": "^5.0.1",
+    "prettier": "^3.8.1"
+  }
+}
