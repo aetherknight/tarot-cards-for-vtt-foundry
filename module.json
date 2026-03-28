@@ -14,9 +14,9 @@
   ],
   "packs": [
     {
-      "name": "hmtw-card-decks",
-      "label": "HMTW Card Decks",
-      "path": "packs/hmtw-card-decks",
+      "name": "tarot-cards-for-vtt",
+      "label": "Tarot Cards for VTT (Decks)",
+      "path": "packs/tarot-cards-for-vtt",
       "type": "Cards",
       "ownership": {
         "PLAYER": "OBSERVER",

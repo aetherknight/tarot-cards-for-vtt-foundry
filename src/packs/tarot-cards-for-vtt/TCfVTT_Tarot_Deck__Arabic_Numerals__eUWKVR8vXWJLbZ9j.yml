@@ -1,0 +1,2655 @@
+name: TCfVTT Tarot Deck (Arabic Numerals)
+type: deck
+description: RWS Tarot deck with card faces that use Arabic numerals for all cards
+img: modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+system: {}
+cards:
+  - _id: xR5n5lnGNmeh4A3t
+    name: majorarcana00
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: 00 The Fool
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/00.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 0
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.xR5n5lnGNmeh4A3t'
+  - _id: kZ0NeDM9zvbhwD8v
+    name: majorarcana01
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: I The Magician
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/01.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.kZ0NeDM9zvbhwD8v'
+  - _id: oIOcUHyOrgbwygkr
+    name: majorarcana02
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: II The High Priestess
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/02.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.oIOcUHyOrgbwygkr'
+  - _id: crdDizYu4JjCOa1k
+    name: majorarcana03
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: III The Empress
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/03.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.crdDizYu4JjCOa1k'
+  - _id: 2y8k2tztwSdooJWO
+    name: majorarcana04
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: IV The Emperor
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/04.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.2y8k2tztwSdooJWO'
+  - _id: lhmRpkXxRYVbQ6Pc
+    name: majorarcana05
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: V The Hierophant
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/05.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.lhmRpkXxRYVbQ6Pc'
+  - _id: 6jlY73YpFixckUqC
+    name: majorarcana06
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: VI The Lovers
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/06.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.6jlY73YpFixckUqC'
+  - _id: x8rhsGykDzKZ4SrX
+    name: majorarcana07
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: VII The Chariot
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/07.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.x8rhsGykDzKZ4SrX'
+  - _id: cOWlqm7bTwydOhtc
+    name: majorarcana08
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: VIII Strength
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/08.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.cOWlqm7bTwydOhtc'
+  - _id: ZXDBWzAynoDXaK75
+    name: majorarcana09
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: IX The Hermit
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/09.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.ZXDBWzAynoDXaK75'
+  - _id: AZ1w7SHUlLIgFaZR
+    name: majorarcana10
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: X The Wheel of Fortune
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/10.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.AZ1w7SHUlLIgFaZR'
+  - _id: YB4YBencM2lk2j9v
+    name: majorarcana11
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XI Justice
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/11.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.YB4YBencM2lk2j9v'
+  - _id: 6ITtb655l8JYxT5m
+    name: majorarcana12
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XII The Hanged Man
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/12.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.6ITtb655l8JYxT5m'
+  - _id: wvYM51XiSXENKqge
+    name: majorarcana13
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XIII Death
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/13.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.wvYM51XiSXENKqge'
+  - _id: VtjGSxRqcDebvrHm
+    name: majorarcana14
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XIV Temperance
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/14.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1650000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.VtjGSxRqcDebvrHm'
+  - _id: W3LH07jn0VIBHp5L
+    name: majorarcana15
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XV The Devil
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/15.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 15
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.W3LH07jn0VIBHp5L'
+  - _id: 60XQPsumH70mQANr
+    name: majorarcana16
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XVI The Tower
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/16.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 16
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.60XQPsumH70mQANr'
+  - _id: br4Qgt4SpJlAiBn2
+    name: majorarcana17
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XVII The Star
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/17.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1850000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 17
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.br4Qgt4SpJlAiBn2'
+  - _id: Y3ZTafMKE4pKovjf
+    name: majorarcana18
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XVIII The Moon
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/18.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 18
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.Y3ZTafMKE4pKovjf'
+  - _id: Urg52rwMkJ9xRYs5
+    name: majorarcana19
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XIX The Sun
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/19.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 19
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.Urg52rwMkJ9xRYs5'
+  - _id: QZWp9yKayFC65AbJ
+    name: majorarcana20
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XX Judgement
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/20.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 20
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.QZWp9yKayFC65AbJ'
+  - _id: Jiv2TxM7AnAPh1kU
+    name: majorarcana21
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - name: XXI The World
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/21.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 21
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.Jiv2TxM7AnAPh1kU'
+  - _id: 0s9729c0bcYEPmZ3
+    name: cups01
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups01.avif
+        name: Ace of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.0s9729c0bcYEPmZ3'
+  - _id: ugNFkrE6S6rIay8u
+    name: cups02
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups02.avif
+        name: II of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.ugNFkrE6S6rIay8u'
+  - _id: iR4Ez5E4qGizSBKx
+    name: cups03
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups03.avif
+        name: III of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.iR4Ez5E4qGizSBKx'
+  - _id: a4W66pqeAsg5Fizv
+    name: cups04
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups04.avif
+        name: IV of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.a4W66pqeAsg5Fizv'
+  - _id: Nncm2IfiCzotv9N4
+    name: cups05
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups05.avif
+        name: V of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.Nncm2IfiCzotv9N4'
+  - _id: bPGJSrbsdgEPIfBG
+    name: cups06
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups06.avif
+        name: VI of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.bPGJSrbsdgEPIfBG'
+  - _id: XALjA0AUqtCY3Wn9
+    name: cups07
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups07.avif
+        name: VII of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.XALjA0AUqtCY3Wn9'
+  - _id: M9Cg61p6oj5KSV5A
+    name: cups08
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups08.avif
+        name: VIII of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.M9Cg61p6oj5KSV5A'
+  - _id: qeG4YtjJ34LDZADP
+    name: cups09
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups09.avif
+        name: IX of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.qeG4YtjJ34LDZADP'
+  - _id: OdsFt2d2b5U0QfmN
+    name: cups10
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups10.avif
+        name: X of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.OdsFt2d2b5U0QfmN'
+  - _id: wmmatW6T2ODkK6u8
+    name: cups11
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups11.avif
+        name: Page of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.wmmatW6T2ODkK6u8'
+  - _id: 9bkFn7alEOHwQKqy
+    name: cups12
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups12.avif
+        name: Knight of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.9bkFn7alEOHwQKqy'
+  - _id: i9m3ClKmnJBiNdFC
+    name: cups13
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups13.avif
+        name: Queen of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.i9m3ClKmnJBiNdFC'
+  - _id: LqGZY2yYK9sTdZuq
+    name: cups14
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups14.avif
+        name: King of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.LqGZY2yYK9sTdZuq'
+  - _id: IH0hO3mHaCU0302T
+    name: pentacles01
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles01.avif
+        name: Ace of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.IH0hO3mHaCU0302T'
+  - _id: 0a1WxXpldA5NSWya
+    name: pentacles02
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles02.avif
+        name: II of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.0a1WxXpldA5NSWya'
+  - _id: JPiFvT1gvg46cAUH
+    name: pentacles03
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles03.avif
+        name: III of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.JPiFvT1gvg46cAUH'
+  - _id: CWRYa1w2s8yXi2z1
+    name: pentacles04
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles04.avif
+        name: IV of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.CWRYa1w2s8yXi2z1'
+  - _id: F3wW13JPV65GGzFh
+    name: pentacles05
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles05.avif
+        name: V of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.F3wW13JPV65GGzFh'
+  - _id: VESfpf9SuKorwwlV
+    name: pentacles06
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles06.avif
+        name: VI of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.VESfpf9SuKorwwlV'
+  - _id: SIxj0YZ26AXPOUPU
+    name: pentacles07
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles07.avif
+        name: VII of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.SIxj0YZ26AXPOUPU'
+  - _id: v3Gko8MjfY0887Rg
+    name: pentacles08
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles08.avif
+        name: VIII of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.v3Gko8MjfY0887Rg'
+  - _id: h2Z6moCl5rjYibLq
+    name: pentacles09
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles09.avif
+        name: IX of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.h2Z6moCl5rjYibLq'
+  - _id: VQCLATLOHlkemxk9
+    name: pentacles10
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles10.avif
+        name: X of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.VQCLATLOHlkemxk9'
+  - _id: AHd0iO3UCX6wfmTJ
+    name: pentacles11
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles11.avif
+        name: Page of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.AHd0iO3UCX6wfmTJ'
+  - _id: i5M5OOBqc2XV7kt2
+    name: pentacles12
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles12.avif
+        name: Knight of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.i5M5OOBqc2XV7kt2'
+  - _id: fr2YDXfwHiG9VOxI
+    name: pentacles13
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles13.avif
+        name: Queen of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.fr2YDXfwHiG9VOxI'
+  - _id: el7iMVPAEeQdWFAE
+    name: pentacles14
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles14.avif
+        name: King of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.el7iMVPAEeQdWFAE'
+  - _id: AFvqaX3IlaPFaZUO
+    name: swords01
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords01.avif
+        name: Ace of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.AFvqaX3IlaPFaZUO'
+  - _id: jKywPFLX4P6VFDGn
+    name: swords02
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords02.avif
+        name: II of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.jKywPFLX4P6VFDGn'
+  - _id: cahzqiUI7XePPl0Z
+    name: swords03
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords03.avif
+        name: III of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.cahzqiUI7XePPl0Z'
+  - _id: iRWpf4Beh80QMPNz
+    name: swords04
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords04.avif
+        name: IV of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.iRWpf4Beh80QMPNz'
+  - _id: 47DAUaHtVu5ZV7Fj
+    name: swords05
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords05.avif
+        name: V of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.47DAUaHtVu5ZV7Fj'
+  - _id: A6Trf39a8ARlERtb
+    name: swords06
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords06.avif
+        name: VI of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.A6Trf39a8ARlERtb'
+  - _id: rbmaE9SwRBqZBmYp
+    name: swords07
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords07.avif
+        name: VII of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.rbmaE9SwRBqZBmYp'
+  - _id: xeVszPultxP5UwU1
+    name: swords08
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords08.avif
+        name: VIII of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.xeVszPultxP5UwU1'
+  - _id: 76cSyvc3A7SVTZ5G
+    name: swords09
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords09.avif
+        name: IX of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.76cSyvc3A7SVTZ5G'
+  - _id: ELaWeaYBQoErb6IC
+    name: swords10
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords10.avif
+        name: X of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.ELaWeaYBQoErb6IC'
+  - _id: 8s87YqpsHWP9b3Xc
+    name: swords11
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords11.avif
+        name: Page of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.8s87YqpsHWP9b3Xc'
+  - _id: yACDhNFqpaBuPGlp
+    name: swords12
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords12.avif
+        name: Knight of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.yACDhNFqpaBuPGlp'
+  - _id: YkRioaMZEBjWdBw0
+    name: swords13
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords13.avif
+        name: Queen of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.YkRioaMZEBjWdBw0'
+  - _id: 2p6f8I1ZZ0dv7OO6
+    name: swords14
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords14.avif
+        name: King of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.2p6f8I1ZZ0dv7OO6'
+  - _id: GOFhAUV6hXGgcSyP
+    name: wands01
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands01.avif
+        name: Ace of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.GOFhAUV6hXGgcSyP'
+  - _id: u9oTALy5XIu4V9ZD
+    name: wands02
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands02.avif
+        name: II of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.u9oTALy5XIu4V9ZD'
+  - _id: IzPPqbf8YnhbGqrG
+    name: wands03
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands03.avif
+        name: III of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.IzPPqbf8YnhbGqrG'
+  - _id: kqDfY46ANCIk8URA
+    name: wands04
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands04.avif
+        name: IV of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.kqDfY46ANCIk8URA'
+  - _id: 0AOiMWT9oMgebtBu
+    name: wands05
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands05.avif
+        name: V of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.0AOiMWT9oMgebtBu'
+  - _id: ZVuzcANu5BhC1nlv
+    name: wands06
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands06.avif
+        name: VI of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.ZVuzcANu5BhC1nlv'
+  - _id: h5b2vyKDqeowELpk
+    name: wands07
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands07.avif
+        name: VII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.h5b2vyKDqeowELpk'
+  - _id: 0UjyINmZ6cdb8p4B
+    name: wands08
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands08.avif
+        name: VIII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.0UjyINmZ6cdb8p4B'
+  - _id: LpAbyQfOC1r6F1tc
+    name: wands09
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands09.avif
+        name: IX of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.LpAbyQfOC1r6F1tc'
+  - _id: gcIgbfVpIG4IxG75
+    name: wands10
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands10.avif
+        name: X of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.gcIgbfVpIG4IxG75'
+  - _id: JtvOBDiViv6H7933
+    name: wands11
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands11.avif
+        name: Page of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.JtvOBDiViv6H7933'
+  - _id: fcclTtMS44RwJgLZ
+    name: wands12
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands12.avif
+        name: Knight of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.fcclTtMS44RwJgLZ'
+  - _id: DAKn3HpdG6aqIeCv
+    name: wands13
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands13.avif
+        name: Queen of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.DAKn3HpdG6aqIeCv'
+  - _id: 4c3d7pbKrlMA4Ddh
+    name: wands14
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Arabic Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands14.avif
+        name: King of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!eUWKVR8vXWJLbZ9j.4c3d7pbKrlMA4Ddh'
+width: null
+height: null
+rotation: 0
+displayCount: false
+folder: Essa6kmNQp684L1I
+ownership:
+  default: 0
+  O9FL6f6OtxFnlz4q: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.343'
+  createdTime: 1774729374465
+  modifiedTime: 1774731513619
+  lastModifiedBy: null
+_id: eUWKVR8vXWJLbZ9j
+sort: 100000
+_key: '!cards!eUWKVR8vXWJLbZ9j'

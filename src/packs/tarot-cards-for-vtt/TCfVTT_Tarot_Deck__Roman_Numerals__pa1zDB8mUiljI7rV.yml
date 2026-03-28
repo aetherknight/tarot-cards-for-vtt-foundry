@@ -1,0 +1,2657 @@
+name: TCfVTT Tarot Deck (Roman Numerals)
+type: deck
+description: >-
+  RWS Tarot deck with card faces that use Roman numerals and letters for face
+  cards
+img: modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+system: {}
+cards:
+  - _id: UqElJF9qbj9Dtqa5
+    name: majorarcana00
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: 00 The Fool
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/00.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 0
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.UqElJF9qbj9Dtqa5'
+  - _id: VFD089MMQ6TopZa8
+    name: majorarcana01
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: I The Magician
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/01.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.VFD089MMQ6TopZa8'
+  - _id: XrchgGmtyBR74RDc
+    name: majorarcana02
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: II The High Priestess
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/02.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.XrchgGmtyBR74RDc'
+  - _id: xQu7IxhimigYLUgV
+    name: majorarcana03
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: III The Empress
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/03.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.xQu7IxhimigYLUgV'
+  - _id: sUrxRuRPVK1mzpuM
+    name: majorarcana04
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: IV The Emperor
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/04.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.sUrxRuRPVK1mzpuM'
+  - _id: XemK49O1ptvQFdDd
+    name: majorarcana05
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: V The Hierophant
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/05.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.XemK49O1ptvQFdDd'
+  - _id: PMaazRdPhnAvHscN
+    name: majorarcana06
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: VI The Lovers
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/06.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.PMaazRdPhnAvHscN'
+  - _id: YyzYpeWmJr8ER56N
+    name: majorarcana07
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: VII The Chariot
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/07.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.YyzYpeWmJr8ER56N'
+  - _id: 8ET4qjeCVofHjig4
+    name: majorarcana08
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: VIII Strength
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/08.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.8ET4qjeCVofHjig4'
+  - _id: R60Rs3e7R9W8O1I4
+    name: majorarcana09
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: IX The Hermit
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/09.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.R60Rs3e7R9W8O1I4'
+  - _id: 4SLzjZNbccC6NREq
+    name: majorarcana10
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: X The Wheel of Fortune
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/10.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.4SLzjZNbccC6NREq'
+  - _id: aYvq8Y5wX5e6QR4E
+    name: majorarcana11
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XI Justice
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/11.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.aYvq8Y5wX5e6QR4E'
+  - _id: XVpe8VzhXpJLFGxQ
+    name: majorarcana12
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XII The Hanged Man
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/12.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.XVpe8VzhXpJLFGxQ'
+  - _id: ziYQatezPuHV3iBN
+    name: majorarcana13
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XIII Death
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/13.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ziYQatezPuHV3iBN'
+  - _id: 5nAVvfiqokdSv8vM
+    name: majorarcana14
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XIV Temperance
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/14.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1650000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.5nAVvfiqokdSv8vM'
+  - _id: uAiu9kkg5D1ZjqPY
+    name: majorarcana15
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XV The Devil
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/15.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 15
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.uAiu9kkg5D1ZjqPY'
+  - _id: HvjAFYWPsSYz0yge
+    name: majorarcana16
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XVI The Tower
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/16.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 16
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.HvjAFYWPsSYz0yge'
+  - _id: wHuoXFrAex7aK9Ed
+    name: majorarcana17
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XVII The Star
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/17.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1850000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 17
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.wHuoXFrAex7aK9Ed'
+  - _id: RHoxSnLe3pdKJQCh
+    name: majorarcana18
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XVIII The Moon
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/18.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 1900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 18
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.RHoxSnLe3pdKJQCh'
+  - _id: 1vwv5M0lVkCY4QwA
+    name: majorarcana19
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XIX The Sun
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/19.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 19
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.1vwv5M0lVkCY4QwA'
+  - _id: Q1ynhU7yMfovOZHA
+    name: majorarcana20
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XX Judgement
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/20.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 20
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.Q1ynhU7yMfovOZHA'
+  - _id: 34UYUodT37OfUcCv
+    name: majorarcana21
+    description: ''
+    type: base
+    suit: majorarcana
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - name: XXI The World
+        img: modules/tarot-cards-for-vtt/images/roman-major-avif/21.avif
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 21
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.34UYUodT37OfUcCv'
+  - _id: Kh38xApVDunWF9S6
+    name: cups01
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups01.avif
+        name: Ace of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.Kh38xApVDunWF9S6'
+  - _id: HbeHewCR7s3P5ewD
+    name: cups02
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups02.avif
+        name: II of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.HbeHewCR7s3P5ewD'
+  - _id: nH42Js3b6saZlSQL
+    name: cups03
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups03.avif
+        name: III of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.nH42Js3b6saZlSQL'
+  - _id: 2FUbTwOffnGbzpCS
+    name: cups04
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups04.avif
+        name: IV of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.2FUbTwOffnGbzpCS'
+  - _id: 803cWyvHhgPjpcKK
+    name: cups05
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups05.avif
+        name: V of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.803cWyvHhgPjpcKK'
+  - _id: yGu0TfuDB7msGdmu
+    name: cups06
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups06.avif
+        name: VI of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.yGu0TfuDB7msGdmu'
+  - _id: gux3gw2F8rhe157j
+    name: cups07
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups07.avif
+        name: VII of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 2900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.gux3gw2F8rhe157j'
+  - _id: FQZ1EduN5Z5EGe3o
+    name: cups08
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups08.avif
+        name: VIII of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.FQZ1EduN5Z5EGe3o'
+  - _id: 1JHcstzdwJpzwYrI
+    name: cups09
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups09.avif
+        name: IX of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.1JHcstzdwJpzwYrI'
+  - _id: QwogWYPu2Eh6Apy5
+    name: cups10
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups10.avif
+        name: X of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.QwogWYPu2Eh6Apy5'
+  - _id: KQyJUB4AwgksKd81
+    name: cups11
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups11.avif
+        name: Page of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.KQyJUB4AwgksKd81'
+  - _id: oJWKXIZTh7zLWPfx
+    name: cups12
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups12.avif
+        name: Knight of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.oJWKXIZTh7zLWPfx'
+  - _id: gvWup5znKzUGxZF0
+    name: cups13
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups13.avif
+        name: Queen of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.gvWup5znKzUGxZF0'
+  - _id: 15UQf218xreQiiMZ
+    name: cups14
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups14.avif
+        name: King of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.15UQf218xreQiiMZ'
+  - _id: inNiPW7DLdvzkYic
+    name: pentacles01
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles01.avif
+        name: Ace of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.inNiPW7DLdvzkYic'
+  - _id: jvhvDTqWp4uuPVhU
+    name: pentacles02
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles02.avif
+        name: II of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.jvhvDTqWp4uuPVhU'
+  - _id: vkDgNgd7LUakrgwR
+    name: pentacles03
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles03.avif
+        name: III of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 3900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.vkDgNgd7LUakrgwR'
+  - _id: fWUCIZtVZGvHG5C6
+    name: pentacles04
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles04.avif
+        name: IV of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.fWUCIZtVZGvHG5C6'
+  - _id: rucbAuB8ue2coK2b
+    name: pentacles05
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles05.avif
+        name: V of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.rucbAuB8ue2coK2b'
+  - _id: LCbPN9g8GyHBkipm
+    name: pentacles06
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles06.avif
+        name: VI of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.LCbPN9g8GyHBkipm'
+  - _id: ZwomtMI5c58BaLOF
+    name: pentacles07
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles07.avif
+        name: VII of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ZwomtMI5c58BaLOF'
+  - _id: oOzn1OqSN1G6RyJL
+    name: pentacles08
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles08.avif
+        name: VIII of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.oOzn1OqSN1G6RyJL'
+  - _id: Bf25pK83Ru0HJzPz
+    name: pentacles09
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles09.avif
+        name: IX of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.Bf25pK83Ru0HJzPz'
+  - _id: D7bY9NTuOtr7IQer
+    name: pentacles10
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles10.avif
+        name: X of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.D7bY9NTuOtr7IQer'
+  - _id: z22KuFtAuWTC6dfE
+    name: pentacles11
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles11.avif
+        name: Page of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.z22KuFtAuWTC6dfE'
+  - _id: YY89mMxlvpUBeWW7
+    name: pentacles12
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles12.avif
+        name: Knight of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.YY89mMxlvpUBeWW7'
+  - _id: r6cTag3UzgFstFmh
+    name: pentacles13
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles13.avif
+        name: Queen of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 4900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.r6cTag3UzgFstFmh'
+  - _id: PAw3UhlbKRZ4rohH
+    name: pentacles14
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles14.avif
+        name: King of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.PAw3UhlbKRZ4rohH'
+  - _id: RMft5XAcVJjndfAV
+    name: swords01
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords01.avif
+        name: Ace of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.RMft5XAcVJjndfAV'
+  - _id: 1gkBoQzH0xFvNFoc
+    name: swords02
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords02.avif
+        name: II of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.1gkBoQzH0xFvNFoc'
+  - _id: 6J438RpXAMOhw855
+    name: swords03
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords03.avif
+        name: III of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.6J438RpXAMOhw855'
+  - _id: XPd6AUf1ERZDhf2f
+    name: swords04
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords04.avif
+        name: IV of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.XPd6AUf1ERZDhf2f'
+  - _id: kUpwVSfoiPw8CTDq
+    name: swords05
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords05.avif
+        name: V of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.kUpwVSfoiPw8CTDq'
+  - _id: VVKqvvMniRthbj3W
+    name: swords06
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords06.avif
+        name: VI of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.VVKqvvMniRthbj3W'
+  - _id: ajB8c2EGzLopuwmY
+    name: swords07
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords07.avif
+        name: VII of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ajB8c2EGzLopuwmY'
+  - _id: GynWylLnRJzF5csf
+    name: swords08
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords08.avif
+        name: VIII of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.GynWylLnRJzF5csf'
+  - _id: 2JXSogGMrd7QDarb
+    name: swords09
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords09.avif
+        name: IX of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 5900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.2JXSogGMrd7QDarb'
+  - _id: mnrixkqZqhYTVX9e
+    name: swords10
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords10.avif
+        name: X of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.mnrixkqZqhYTVX9e'
+  - _id: ZrVfjPx8ldnDqr8O
+    name: swords11
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords11.avif
+        name: Page of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ZrVfjPx8ldnDqr8O'
+  - _id: fgV5QFzBoqri3HCf
+    name: swords12
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords12.avif
+        name: Knight of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.fgV5QFzBoqri3HCf'
+  - _id: 59juzPPsHVQfWeWi
+    name: swords13
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords13.avif
+        name: Queen of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.59juzPPsHVQfWeWi'
+  - _id: yFtse22G2nIvqNwe
+    name: swords14
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords14.avif
+        name: King of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.yFtse22G2nIvqNwe'
+  - _id: wXjuAwhrrbUpJQl0
+    name: wands01
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands01.avif
+        name: Ace of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.wXjuAwhrrbUpJQl0'
+  - _id: kUMTaZ79ammPi6wc
+    name: wands02
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands02.avif
+        name: II of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.kUMTaZ79ammPi6wc'
+  - _id: ALZIV96Azx7cTjwU
+    name: wands03
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands03.avif
+        name: III of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ALZIV96Azx7cTjwU'
+  - _id: 9ZryqdYM20im4k3g
+    name: wands04
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands04.avif
+        name: IV of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.9ZryqdYM20im4k3g'
+  - _id: ZHjPKHvY9uAIXILn
+    name: wands05
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands05.avif
+        name: V of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 6900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.ZHjPKHvY9uAIXILn'
+  - _id: R6PTuM1IT8FSxvVs
+    name: wands06
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands06.avif
+        name: VI of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.R6PTuM1IT8FSxvVs'
+  - _id: LDTd563fAAPzJQ2j
+    name: wands07
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands07.avif
+        name: VII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.LDTd563fAAPzJQ2j'
+  - _id: YidwNBTIPJyrAZpr
+    name: wands08
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands08.avif
+        name: VIII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.YidwNBTIPJyrAZpr'
+  - _id: 6m0LrIYhWtuOGwmw
+    name: wands09
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands09.avif
+        name: IX of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.6m0LrIYhWtuOGwmw'
+  - _id: lTFsgqqMDn08gYvL
+    name: wands10
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands10.avif
+        name: X of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.lTFsgqqMDn08gYvL'
+  - _id: 2XE6HBpP9GiHDSmX
+    name: wands11
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands11.avif
+        name: Page of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.2XE6HBpP9GiHDSmX'
+  - _id: iVfGzhLRfl9X8kGp
+    name: wands12
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands12.avif
+        name: Knight of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.iVfGzhLRfl9X8kGp'
+  - _id: WjmpZGglzJ7IAPsZ
+    name: wands13
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands13.avif
+        name: Queen of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.WjmpZGglzJ7IAPsZ'
+  - _id: D8phySaw1GnIzcNn
+    name: wands14
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: >-
+        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+      name: TCfVTT Tarot Card (Roman Numerals)
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands14.avif
+        name: King of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: BKENsS4MmXEiP7sO
+    rotation: 0
+    sort: 7800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!pa1zDB8mUiljI7rV.D8phySaw1GnIzcNn'
+width: null
+height: null
+rotation: 0
+displayCount: false
+folder: Essa6kmNQp684L1I
+ownership:
+  default: 0
+  O9FL6f6OtxFnlz4q: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.343'
+  createdTime: 1774730805769
+  modifiedTime: 1774731514891
+  lastModifiedBy: null
+_id: pa1zDB8mUiljI7rV
+sort: 200000
+_key: '!cards!pa1zDB8mUiljI7rV'

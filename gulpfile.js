@@ -84,15 +84,34 @@ const packPack = async (packName /* string */) => {
 
 export const unpack = async () => {
   await setup();
-  await unpackPack("hmtw-card-decks");
+  await unpackPack("tarot-cards-for-vtt");
 };
 
 export const pack = async () => {
   await setup();
-  await packPack("hmtw-card-decks");
+  await packPack("tarot-cards-for-vtt");
+};
+
+export const images = async () => {
+  const imagePath = path.resolve(".", "dist", "images");
+  if (await fs.exists(imagePath)) {
+    await fs.remove(imagePath);
+  }
+  await fs.ensureDir(imagePath);
+  await fs.copy(path.resolve("public", "images"), imagePath);
+};
+
+export const module = async () => {
+  await fs.ensureDir(path.resolve(".", "dist"));
+  await fs.copy(
+    path.resolve(".", "module.json"),
+    path.resolve(".", "dist", "module.json"),
+  );
 };
 
 export const build = async () => {
   await setup();
   await pack();
+  await images();
+  await module();
 };

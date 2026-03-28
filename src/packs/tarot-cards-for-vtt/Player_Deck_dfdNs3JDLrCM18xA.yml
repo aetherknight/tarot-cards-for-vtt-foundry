@@ -1,735 +1,31 @@
 name: Player Deck
 type: deck
-description: ''
-img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
+description: The Minor Arcana (plus Fool) player deck for playing His Majesty the Worm
+img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
 cards:
-  - _id: SgDW16UejBWJ2W7i
-    name: MIN.cups.01
+  - _id: 1oLq6btNIbUbRJj0
+    name: majorarcana00
     description: ''
     type: base
-    suit: cups
+    suit: majorarcana
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/01.webp
+      - name: 00 The Fool
+        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/00.avif
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
     sort: 100000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 1
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.SgDW16UejBWJ2W7i'
-    cards: []
-  - _id: iFSomJmB99YzwGCL
-    name: MIN.pentacles.01
-    description: ''
-    type: base
-    suit: pentacles
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/01.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 2725000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 1
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.iFSomJmB99YzwGCL'
-    cards: []
-  - _id: bXtBPBNQzUXF7Tq1
-    name: MIN.swords.01
-    description: ''
-    type: base
-    suit: swords
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/01.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4050000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 1
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.bXtBPBNQzUXF7Tq1'
-    cards: []
-  - _id: 5Vk0cwpDioOoM8cX
-    name: MIN.wands.01
-    description: ''
-    type: base
-    suit: wands
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/01.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4971875
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 1
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.5Vk0cwpDioOoM8cX'
-    cards: []
-  - _id: oo6txb2o6yrjMzCG
-    name: MIN.cups.02
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/02.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 200000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 2
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.oo6txb2o6yrjMzCG'
-    cards: []
-  - _id: cEmCO4ehWivwK9hE
-    name: MIN.cups.03
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/03.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 250000
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 3
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.cEmCO4ehWivwK9hE'
-    cards: []
-  - _id: DxvyFbwj06zMTZFf
-    name: MIN.cups.04
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/04.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 275000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 4
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.DxvyFbwj06zMTZFf'
-    cards: []
-  - _id: sUJuZogPiYhOoagO
-    name: MIN.cups.05
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/05.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 287500
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 5
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.sUJuZogPiYhOoagO'
-    cards: []
-  - _id: hEiX2rNXuJ1AGBUu
-    name: MIN.cups.06
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/06.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 293750
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 6
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.hEiX2rNXuJ1AGBUu'
-    cards: []
-  - _id: 5uLww9p3319VleFU
-    name: MIN.cups.07
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/07.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 296875
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 7
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.5uLww9p3319VleFU'
-    cards: []
-  - _id: FKycWUlMaqDA7xk5
-    name: MIN.cups.08
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/08.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 298438
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 8
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.FKycWUlMaqDA7xk5'
-    cards: []
-  - _id: e9szjlpJeurWJ9rq
-    name: MIN.cups.09
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/09.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 299219
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 9
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.e9szjlpJeurWJ9rq'
-    cards: []
-  - _id: cm7PM64ydunhrHqv
-    name: MIN.cups.10
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/10.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 299610
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 10
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.cm7PM64ydunhrHqv'
-    cards: []
-  - _id: iVxKGX7iTNGBOJ2E
-    name: MIN.cups.14
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/14.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 299976
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 14
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.iVxKGX7iTNGBOJ2E'
-    cards: []
-  - _id: ZozDZix6fXnUdVRu
-    name: MIN.pentacles.14
-    description: ''
-    type: base
-    suit: pentacles
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/14.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 3787500
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 14
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.ZozDZix6fXnUdVRu'
-    cards: []
-  - _id: 4ThjJij35MDCyWsu
-    name: MIN.swords.14
-    description: ''
-    type: base
-    suit: swords
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/14.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4970313
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 14
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.4ThjJij35MDCyWsu'
-    cards: []
-  - _id: eXSdKMnZjHxYj0Hd
-    name: MIN.wands.14
-    description: ''
-    type: base
-    suit: wands
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/14.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 6000000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 14
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.eXSdKMnZjHxYj0Hd'
-    cards: []
-  - _id: 4cLnp0G5e0ccS6ZN
-    name: MIN.cups.12
-    description: ''
-    type: base
-    suit: cups
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/12.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 299903
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 12
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.4cLnp0G5e0ccS6ZN'
-    cards: []
-  - _id: nCOLuFKNjPFqEsA2
-    name: MIN.pentacles.12
-    description: ''
-    type: base
-    suit: pentacles
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/12.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 3768750
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 12
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.nCOLuFKNjPFqEsA2'
-    cards: []
-  - _id: 1MW7XDlkrMODsnBf
-    name: MIN.swords.12
-    description: ''
-    type: base
-    suit: swords
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/12.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4967188
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 12
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.1MW7XDlkrMODsnBf'
-    cards: []
-  - _id: rPvzDIBGw97QbESV
-    name: MIN.wands.12
-    description: ''
-    type: base
-    suit: wands
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/12.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 5875000
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 12
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.rPvzDIBGw97QbESV'
-    cards: []
-  - _id: 1oLq6btNIbUbRJj0
-    name: MAJ.major.00
-    description: ''
-    type: base
-    suit: majorarcana
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - name: ''
-        img: assets/cards/Tarot%20for%20VTT/700x1200-webp/major/00.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 0
-    flags:
-      complete-card-management: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -737,164 +33,65 @@ cards:
     value: 0
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.1oLq6btNIbUbRJj0'
     cards: []
-  - _id: 6aYoKlzrMVeXrPzm
-    name: MIN.cups.11
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.1oLq6btNIbUbRJj0'
+  - _id: SgDW16UejBWJ2W7i
+    name: cups01
     description: ''
     type: base
     suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/11.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups01.avif
+        name: Ace of Cups
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 299805
+    sort: 2300000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 11
+    value: 1
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.6aYoKlzrMVeXrPzm'
     cards: []
-  - _id: hklDpD7Q5B4kdyEB
-    name: MIN.pentacles.11
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.SgDW16UejBWJ2W7i'
+  - _id: oo6txb2o6yrjMzCG
+    name: cups02
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/11.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups02.avif
+        name: II of Cups
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 3762500
+    sort: 2400000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 11
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.hklDpD7Q5B4kdyEB'
-    cards: []
-  - _id: CC5AYVXvfl8x0UYv
-    name: MIN.swords.11
-    description: ''
-    type: base
-    suit: swords
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/11.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4965625
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 11
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.CC5AYVXvfl8x0UYv'
-    cards: []
-  - _id: eziNtycLF2BHjFj0
-    name: MIN.wands.11
-    description: ''
-    type: base
-    suit: wands
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/11.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 5850000
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 11
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.eziNtycLF2BHjFj0'
-    cards: []
-  - _id: Du1XqXvN9pOeLB2b
-    name: MIN.pentacles.02
-    description: ''
-    type: base
-    suit: pentacles
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/02.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 2737500
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -902,19 +99,120 @@ cards:
     value: 2
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.Du1XqXvN9pOeLB2b'
     cards: []
-  - _id: xP4Cjf9zk2TNEAQA
-    name: MIN.pentacles.03
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.oo6txb2o6yrjMzCG'
+  - _id: cEmCO4ehWivwK9hE
+    name: cups03
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/03.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups03.avif
+        name: III of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 2500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.cEmCO4ehWivwK9hE'
+  - _id: DxvyFbwj06zMTZFf
+    name: cups04
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups04.avif
+        name: IV of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 2600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.DxvyFbwj06zMTZFf'
+  - _id: sUJuZogPiYhOoagO
+    name: cups05
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups05.avif
+        name: V of Cups
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 2700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.sUJuZogPiYhOoagO'
+  - _id: hEiX2rNXuJ1AGBUu
+    name: cups06
+    description: ''
+    type: base
+    suit: cups
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups06.avif
+        name: VI of Cups
         text: ''
     face: 0
     drawn: false
@@ -926,28 +224,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 3
+    value: 6
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.xP4Cjf9zk2TNEAQA'
     cards: []
-  - _id: ZAVgj4kbaHgzkRn6
-    name: MIN.pentacles.04
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.hEiX2rNXuJ1AGBUu'
+  - _id: 5uLww9p3319VleFU
+    name: cups07
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/04.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups07.avif
+        name: VII of Cups
         text: ''
     face: 0
     drawn: false
@@ -959,28 +257,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 4
+    value: 7
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.ZAVgj4kbaHgzkRn6'
     cards: []
-  - _id: miNvE3VbDnxYLU9P
-    name: MIN.pentacles.05
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.5uLww9p3319VleFU'
+  - _id: FKycWUlMaqDA7xk5
+    name: cups08
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/05.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups08.avif
+        name: VIII of Cups
         text: ''
     face: 0
     drawn: false
@@ -992,28 +290,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 5
+    value: 8
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.miNvE3VbDnxYLU9P'
     cards: []
-  - _id: 3uAS9sEbiFN7pyhs
-    name: MIN.pentacles.06
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.FKycWUlMaqDA7xk5'
+  - _id: e9szjlpJeurWJ9rq
+    name: cups09
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/06.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups09.avif
+        name: IX of Cups
         text: ''
     face: 0
     drawn: false
@@ -1025,28 +323,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 6
+    value: 9
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.3uAS9sEbiFN7pyhs'
     cards: []
-  - _id: TQjJMTQrKrVXYq3y
-    name: MIN.pentacles.07
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.e9szjlpJeurWJ9rq'
+  - _id: cm7PM64ydunhrHqv
+    name: cups10
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/07.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups10.avif
+        name: X of Cups
         text: ''
     face: 0
     drawn: false
@@ -1058,28 +356,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 7
+    value: 10
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.TQjJMTQrKrVXYq3y'
     cards: []
-  - _id: O1NGgc1MJ8nG2bat
-    name: MIN.pentacles.08
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.cm7PM64ydunhrHqv'
+  - _id: 6aYoKlzrMVeXrPzm
+    name: cups11
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/08.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups11.avif
+        name: Page of Cups
         text: ''
     face: 0
     drawn: false
@@ -1091,28 +389,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 8
+    value: 11
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.O1NGgc1MJ8nG2bat'
     cards: []
-  - _id: RLnycT3jq0cPvNw6
-    name: MIN.pentacles.09
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.6aYoKlzrMVeXrPzm'
+  - _id: 4cLnp0G5e0ccS6ZN
+    name: cups12
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/09.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups12.avif
+        name: Knight of Cups
         text: ''
     face: 0
     drawn: false
@@ -1124,28 +422,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 9
+    value: 12
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.RLnycT3jq0cPvNw6'
     cards: []
-  - _id: Fx6zYB9LAnynJyu4
-    name: MIN.pentacles.10
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.4cLnp0G5e0ccS6ZN'
+  - _id: vES4TXQHHn6WYMKh
+    name: cups13
     description: ''
     type: base
-    suit: pentacles
+    suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/10.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups13.avif
+        name: Queen of Cups
         text: ''
     face: 0
     drawn: false
@@ -1157,173 +455,104 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 10
+    value: 13
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.Fx6zYB9LAnynJyu4'
     cards: []
-  - _id: vES4TXQHHn6WYMKh
-    name: MIN.cups.13
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.vES4TXQHHn6WYMKh'
+  - _id: iVxKGX7iTNGBOJ2E
+    name: cups14
     description: ''
     type: base
     suit: cups
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/cups/13.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups14.avif
+        name: King of Cups
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 299952
+    sort: 3600000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 13
+    value: 14
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.vES4TXQHHn6WYMKh'
     cards: []
-  - _id: 27pKRXBBYRAydwUg
-    name: MIN.pentacles.13
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.iVxKGX7iTNGBOJ2E'
+  - _id: iFSomJmB99YzwGCL
+    name: pentacles01
     description: ''
     type: base
     suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/pentacles/13.webp
-        text: ''
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles01.avif
+        name: Ace of Pentacles
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 3775000
+    sort: 3700000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 13
+    value: 1
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.27pKRXBBYRAydwUg'
     cards: []
-  - _id: bvbSwas8msUuKGdV
-    name: MIN.swords.13
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.iFSomJmB99YzwGCL'
+  - _id: Du1XqXvN9pOeLB2b
+    name: pentacles02
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/13.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles02.avif
+        name: II of Pentacles
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 4968750
+    sort: 3800000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 13
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.bvbSwas8msUuKGdV'
-    cards: []
-  - _id: ePZ3P92GhBvXqvmT
-    name: MIN.wands.13
-    description: ''
-    type: base
-    suit: wands
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/13.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 5900000
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
-      createdTime: null
-      modifiedTime: null
-      lastModifiedBy: null
-    system: {}
-    value: 13
-    width: null
-    height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.ePZ3P92GhBvXqvmT'
-    cards: []
-  - _id: 4UoVFlis6pO06EJV
-    name: MIN.swords.02
-    description: ''
-    type: base
-    suit: swords
-    back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
-      text: ''
-    faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/02.webp
-        text: ''
-    face: 0
-    drawn: false
-    origin: JOajllhLNre6xmPK
-    rotation: 0
-    sort: 4075000
-    flags: {}
-    _stats:
-      compendiumSource: null
-      duplicateSource: null
-      coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -1331,19 +560,87 @@ cards:
     value: 2
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.4UoVFlis6pO06EJV'
     cards: []
-  - _id: CXsjdGQL4qQGUgi2
-    name: MIN.swords.03
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.Du1XqXvN9pOeLB2b'
+  - _id: xP4Cjf9zk2TNEAQA
+    name: pentacles03
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/03.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles03.avif
+        name: III of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 3900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.xP4Cjf9zk2TNEAQA'
+  - _id: ZAVgj4kbaHgzkRn6
+    name: pentacles04
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles04.avif
+        name: IV of Pentacles
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 4000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.ZAVgj4kbaHgzkRn6'
+  - _id: miNvE3VbDnxYLU9P
+    name: pentacles05
+    description: ''
+    type: base
+    suit: pentacles
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles05.avif
+        name: V of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1355,28 +652,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 3
+    value: 5
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.CXsjdGQL4qQGUgi2'
     cards: []
-  - _id: mbIlHEI2H1I9gQwD
-    name: MIN.swords.04
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.miNvE3VbDnxYLU9P'
+  - _id: 3uAS9sEbiFN7pyhs
+    name: pentacles06
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/04.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles06.avif
+        name: VI of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1388,28 +685,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 4
+    value: 6
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.mbIlHEI2H1I9gQwD'
     cards: []
-  - _id: jBDDuBb3imGG7DDz
-    name: MIN.swords.05
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.3uAS9sEbiFN7pyhs'
+  - _id: TQjJMTQrKrVXYq3y
+    name: pentacles07
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/05.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles07.avif
+        name: VII of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1421,28 +718,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 5
+    value: 7
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.jBDDuBb3imGG7DDz'
     cards: []
-  - _id: rATrQAIOJLnPhmYo
-    name: MIN.swords.06
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.TQjJMTQrKrVXYq3y'
+  - _id: O1NGgc1MJ8nG2bat
+    name: pentacles08
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/06.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles08.avif
+        name: VIII of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1454,28 +751,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 6
+    value: 8
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.rATrQAIOJLnPhmYo'
     cards: []
-  - _id: So5rVF8sXf24Geqq
-    name: MIN.swords.07
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.O1NGgc1MJ8nG2bat'
+  - _id: RLnycT3jq0cPvNw6
+    name: pentacles09
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/07.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles09.avif
+        name: IX of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1487,28 +784,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 7
+    value: 9
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.So5rVF8sXf24Geqq'
     cards: []
-  - _id: 8suUTVbH8tIzznEh
-    name: MIN.swords.08
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.RLnycT3jq0cPvNw6'
+  - _id: Fx6zYB9LAnynJyu4
+    name: pentacles10
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/08.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles10.avif
+        name: X of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1520,28 +817,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 8
+    value: 10
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.8suUTVbH8tIzznEh'
     cards: []
-  - _id: s164btFVNAXQrb6e
-    name: MIN.swords.09
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.Fx6zYB9LAnynJyu4'
+  - _id: hklDpD7Q5B4kdyEB
+    name: pentacles11
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/09.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles11.avif
+        name: Page of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1553,28 +850,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 9
+    value: 11
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.s164btFVNAXQrb6e'
     cards: []
-  - _id: BCu9mdZdapSzPE00
-    name: MIN.swords.10
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.hklDpD7Q5B4kdyEB'
+  - _id: nCOLuFKNjPFqEsA2
+    name: pentacles12
     description: ''
     type: base
-    suit: swords
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/swords/10.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles12.avif
+        name: Knight of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1586,61 +883,61 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 10
+    value: 12
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.BCu9mdZdapSzPE00'
     cards: []
-  - _id: B9D6IHA7WW96FlfF
-    name: MIN.wands.02
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.nCOLuFKNjPFqEsA2'
+  - _id: 27pKRXBBYRAydwUg
+    name: pentacles13
     description: ''
     type: base
-    suit: wands
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/02.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles13.avif
+        name: Queen of Pentacles
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
-    sort: 4975000
+    sort: 4900000
     flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 2
+    value: 13
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.B9D6IHA7WW96FlfF'
     cards: []
-  - _id: nFi8QNN26wPAEpmc
-    name: MIN.wands.03
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.27pKRXBBYRAydwUg'
+  - _id: ZozDZix6fXnUdVRu
+    name: pentacles14
     description: ''
     type: base
-    suit: wands
+    suit: pentacles
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/03.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles14.avif
+        name: King of Pentacles
         text: ''
     face: 0
     drawn: false
@@ -1652,28 +949,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 3
+    value: 14
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.nFi8QNN26wPAEpmc'
     cards: []
-  - _id: E0Q218oAGkb5xxjW
-    name: MIN.wands.04
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.ZozDZix6fXnUdVRu'
+  - _id: bXtBPBNQzUXF7Tq1
+    name: swords01
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/04.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords01.avif
+        name: Ace of Swords
         text: ''
     face: 0
     drawn: false
@@ -1685,62 +982,61 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 4
+    value: 1
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.E0Q218oAGkb5xxjW'
     cards: []
-  - _id: 8aXRIQFN6LIUXxRV
-    name: MIN.wands.05
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.bXtBPBNQzUXF7Tq1'
+  - _id: 4UoVFlis6pO06EJV
+    name: swords02
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/05.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords02.avif
+        name: II of Swords
         text: ''
     face: 0
     drawn: false
     origin: JOajllhLNre6xmPK
     rotation: 0
     sort: 5200000
-    flags:
-      complete-card-management: {}
+    flags: {}
     _stats:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 5
+    value: 2
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.8aXRIQFN6LIUXxRV'
     cards: []
-  - _id: AH65eJM25sPgNUXC
-    name: MIN.wands.06
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.4UoVFlis6pO06EJV'
+  - _id: CXsjdGQL4qQGUgi2
+    name: swords03
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/06.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords03.avif
+        name: III of Swords
         text: ''
     face: 0
     drawn: false
@@ -1752,28 +1048,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 6
+    value: 3
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.AH65eJM25sPgNUXC'
     cards: []
-  - _id: Nfa2O6voCesdHhmB
-    name: MIN.wands.07
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.CXsjdGQL4qQGUgi2'
+  - _id: mbIlHEI2H1I9gQwD
+    name: swords04
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/07.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords04.avif
+        name: IV of Swords
         text: ''
     face: 0
     drawn: false
@@ -1785,28 +1081,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 7
+    value: 4
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.Nfa2O6voCesdHhmB'
     cards: []
-  - _id: dImGzliTDxOQMnij
-    name: MIN.wands.08
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.mbIlHEI2H1I9gQwD'
+  - _id: jBDDuBb3imGG7DDz
+    name: swords05
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/08.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords05.avif
+        name: V of Swords
         text: ''
     face: 0
     drawn: false
@@ -1818,28 +1114,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 8
+    value: 5
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.dImGzliTDxOQMnij'
     cards: []
-  - _id: bheFgvVYmqWf8U5L
-    name: MIN.wands.09
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.jBDDuBb3imGG7DDz'
+  - _id: rATrQAIOJLnPhmYo
+    name: swords06
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/09.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords06.avif
+        name: VI of Swords
         text: ''
     face: 0
     drawn: false
@@ -1851,28 +1147,28 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
     system: {}
-    value: 9
+    value: 6
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.bheFgvVYmqWf8U5L'
     cards: []
-  - _id: RYZyMwT8J57ipdDE
-    name: MIN.wands.10
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.rATrQAIOJLnPhmYo'
+  - _id: So5rVF8sXf24Geqq
+    name: swords07
     description: ''
     type: base
-    suit: wands
+    suit: swords
     back:
-      img: assets/His%20Majesty%20the%20Worm/Card-Back-700x1200.webp
-      name: Tarot Back
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
       text: ''
     faces:
-      - img: assets/cards/Tarot%20for%20VTT/700x1200-webp/wands/10.webp
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords07.avif
+        name: VII of Swords
         text: ''
     face: 0
     drawn: false
@@ -1884,8 +1180,105 @@ cards:
       compendiumSource: null
       duplicateSource: null
       coreVersion: '12.343'
-      systemId: custom-system-builder
-      systemVersion: 4.8.5
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.So5rVF8sXf24Geqq'
+  - _id: 8suUTVbH8tIzznEh
+    name: swords08
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords08.avif
+        name: VIII of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 5800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.8suUTVbH8tIzznEh'
+  - _id: s164btFVNAXQrb6e
+    name: swords09
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords09.avif
+        name: IX of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 5900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.s164btFVNAXQrb6e'
+  - _id: BCu9mdZdapSzPE00
+    name: swords10
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords10.avif
+        name: X of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -1893,20 +1286,610 @@ cards:
     value: 10
     width: null
     height: null
-    _key: '!cards.cards!dfdNs3JDLrCM18xA.RYZyMwT8J57ipdDE'
     cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.BCu9mdZdapSzPE00'
+  - _id: CC5AYVXvfl8x0UYv
+    name: swords11
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords11.avif
+        name: Page of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.CC5AYVXvfl8x0UYv'
+  - _id: 1MW7XDlkrMODsnBf
+    name: swords12
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords12.avif
+        name: Knight of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.1MW7XDlkrMODsnBf'
+  - _id: bvbSwas8msUuKGdV
+    name: swords13
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords13.avif
+        name: Queen of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.bvbSwas8msUuKGdV'
+  - _id: 4ThjJij35MDCyWsu
+    name: swords14
+    description: ''
+    type: base
+    suit: swords
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords14.avif
+        name: King of Swords
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.4ThjJij35MDCyWsu'
+  - _id: 5Vk0cwpDioOoM8cX
+    name: wands01
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands01.avif
+        name: Ace of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 1
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.5Vk0cwpDioOoM8cX'
+  - _id: B9D6IHA7WW96FlfF
+    name: wands02
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands02.avif
+        name: II of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 2
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.B9D6IHA7WW96FlfF'
+  - _id: nFi8QNN26wPAEpmc
+    name: wands03
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands03.avif
+        name: III of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 3
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.nFi8QNN26wPAEpmc'
+  - _id: E0Q218oAGkb5xxjW
+    name: wands04
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands04.avif
+        name: IV of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 4
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.E0Q218oAGkb5xxjW'
+  - _id: 8aXRIQFN6LIUXxRV
+    name: wands05
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands05.avif
+        name: V of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 6900000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 5
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.8aXRIQFN6LIUXxRV'
+  - _id: AH65eJM25sPgNUXC
+    name: wands06
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands06.avif
+        name: VI of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7000000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 6
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.AH65eJM25sPgNUXC'
+  - _id: Nfa2O6voCesdHhmB
+    name: wands07
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands07.avif
+        name: VII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7100000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 7
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.Nfa2O6voCesdHhmB'
+  - _id: dImGzliTDxOQMnij
+    name: wands08
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands08.avif
+        name: VIII of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7200000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 8
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.dImGzliTDxOQMnij'
+  - _id: bheFgvVYmqWf8U5L
+    name: wands09
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands09.avif
+        name: IX of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7300000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 9
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.bheFgvVYmqWf8U5L'
+  - _id: RYZyMwT8J57ipdDE
+    name: wands10
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands10.avif
+        name: X of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7400000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 10
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.RYZyMwT8J57ipdDE'
+  - _id: eziNtycLF2BHjFj0
+    name: wands11
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands11.avif
+        name: Page of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7500000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 11
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.eziNtycLF2BHjFj0'
+  - _id: rPvzDIBGw97QbESV
+    name: wands12
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands12.avif
+        name: Knight of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7600000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 12
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.rPvzDIBGw97QbESV'
+  - _id: ePZ3P92GhBvXqvmT
+    name: wands13
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands13.avif
+        name: Queen of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7700000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 13
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.ePZ3P92GhBvXqvmT'
+  - _id: eXSdKMnZjHxYj0Hd
+    name: wands14
+    description: ''
+    type: base
+    suit: wands
+    back:
+      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      name: Player Card
+      text: ''
+    faces:
+      - img: >-
+          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands14.avif
+        name: King of Wands
+        text: ''
+    face: 0
+    drawn: false
+    origin: JOajllhLNre6xmPK
+    rotation: 0
+    sort: 7800000
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.343'
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    system: {}
+    value: 14
+    width: null
+    height: null
+    cards: []
+    _key: '!cards.cards!dfdNs3JDLrCM18xA.eXSdKMnZjHxYj0Hd'
 rotation: 0
 displayCount: false
-folder: null
-flags:
-  core:
-    sheetClass: ''
+folder: IEe0eqiJLwhmyT7e
+flags: {}
 _stats:
   compendiumSource: null
   duplicateSource: null
   coreVersion: '12.343'
-  systemId: custom-system-builder
-  systemVersion: 4.8.5
   createdTime: 1772215854900
   modifiedTime: 1772215870237
   lastModifiedBy: ZeOnZTCfss8EYsse
