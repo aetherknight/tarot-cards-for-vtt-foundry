@@ -1,7 +1,7 @@
 {
-  "id": "aetherkns-hmtw-data",
-  "title": "ÆtherKn's HMTW Data",
-  "version": "1.0.0",
+  "id": "tarot-cards-for-vtt",
+  "title": "Tarot Cards for VTT",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
