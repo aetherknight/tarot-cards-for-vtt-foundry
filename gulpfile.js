@@ -40,6 +40,7 @@ export const setup = async () => {
   const modulePathInFoundry = `${dataPath}/Data/modules/${MODULE_ID}`;
   const moduleSourcePath = `${import.meta.dirname}/dist`;
 
+  await fs.ensureDir(path.resolve(".", "dist"));
   await fs.ensureSymlink(moduleSourcePath, modulePathInFoundry);
 };
 
@@ -128,4 +129,9 @@ export const build = async () => {
   await pack();
   await images();
   await files();
+};
+
+export const clean = async () => {
+  await run("find", [".", "-name", ".DS_Store", "-exec", "/bin/rm", "{}", ";"]);
+  await fs.remove("dist");
 };

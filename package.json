@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "npx gulp build",
+    "clean": "npx gulp clean"
+  },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.3",
     "eslint": "^10.1.0",
