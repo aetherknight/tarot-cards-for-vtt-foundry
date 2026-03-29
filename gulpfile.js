@@ -101,17 +101,31 @@ export const images = async () => {
   await fs.copy(path.resolve("public", "images"), imagePath);
 };
 
-export const module = async () => {
+export const files = async () => {
   await fs.ensureDir(path.resolve(".", "dist"));
-  await fs.copy(
-    path.resolve(".", "module.json"),
-    path.resolve(".", "dist", "module.json"),
-  );
+  const filesToCopy = [
+    [
+      path.resolve(".", "module.json"),
+      path.resolve(".", "dist", "module.json"),
+    ],
+    [path.resolve(".", "README.md"), path.resolve(".", "dist", "README.md")],
+    [
+      path.resolve(".", "LICENSE-images.txt"),
+      path.resolve(".", "dist", "LICENSE-images.txt"),
+    ],
+    [
+      path.resolve(".", "LICENSE-source.txt"),
+      path.resolve(".", "dist", "LICENSE-source.txt"),
+    ],
+  ];
+  for (const [src, dest] of filesToCopy) {
+    await fs.copy(src, dest);
+  }
 };
 
 export const build = async () => {
   await setup();
   await pack();
   await images();
-  await module();
+  await files();
 };
