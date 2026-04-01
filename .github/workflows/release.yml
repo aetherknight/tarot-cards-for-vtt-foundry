@@ -1,0 +1,59 @@
+name: Release
+on:
+  push:
+    tags:
+      - '*'
+jobs:
+  build_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Update module.json
+        run: |
+          VERSION=$(echo ${{ github.ref }} | sed 's/refs\/tags\///')
+          jq --arg DOWNLOAD_URL "https://github.com/${{ github.repository }}/releases/download/${VERSION}/release.zip" \
+            '.download = $DOWNLOAD_URL' dist/module.json > dist/temp.json && mv dist/temp.json dist/module.json
+      - name: create zip
+        run: |
+          sudo apt-get install zip &&
+          pushd dist &&
+          zip -r tarot-cards-for-foundry.zip ./* &&
+          popd dist
+      - name: Create Release (draft)
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: true
+          prerelease: false
+      - name: Add module.json to Release
+        id: upload_module_json
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./module.json
+          asset_name: module.json
+          asset_content_type: applicaton/json
+      - name: Add zip to Release
+        id: upload_release_zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./tarot-cards-for-vtt.zip
+          asset_name: tarot-cards-for-vtt.zip
+          asset_content_type: application/zip
+      # TODO: autopublish to foundry registry?
