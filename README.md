@@ -33,10 +33,10 @@ included in this repository are Copyright (c) 2026 by Wynn (ÆtherKn) Snow
 Orvis, and are licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International
 license](https://creativecommons.org/licenses/by-nd/4.0/), unless otherwise
-noted. See <LICENSE-images.txt> for details.
+noted. See [LICENSE-images.txt](LICENSE-images.txt) for details.
 
 All other source code is licensed under the MIT license. See
-<LICENSE-source.txt> for details.
+[LICENSE-source.txt](LICENSE-source.txt) for details.
 
 If you want to include the card images in a commercial work (ie, a work where
 you charge, contact me to discuss.
