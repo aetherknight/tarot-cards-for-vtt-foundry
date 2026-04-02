@@ -107,10 +107,6 @@ export const images = async () => {
 export const files = async () => {
   await fs.ensureDir(path.resolve(".", "dist"));
   const filesToCopy = [
-    [
-      path.resolve(".", "module.json"),
-      path.resolve(".", "dist", "module.json"),
-    ],
     [path.resolve(".", "README.md"), path.resolve(".", "dist", "README.md")],
     [
       path.resolve(".", "LICENSE-images.txt"),
@@ -127,16 +123,17 @@ export const files = async () => {
 };
 
 export const getGitVersion = async () => {
-  const proc = await run("git", ["describe"], {
+  const proc = await run("git", ["describe", "--tags"], {
     stdio: ["inherit", "pipe", "inherit"],
     encoding: "utf-8",
   });
-  return proc.stdout.replace(/^v/, "");
+  return proc.stdout.trim().replace(/^v/, "");
 };
 
 export const moduleJson = async () => {
   await fs.ensureDir(path.resolve(".", "dist"));
   const gitVersion = await getGitVersion();
+  console.log(`Version is: ${gitVersion}`);
   const module_json = await fs.readJson(path.resolve(".", "module.json"));
   // Set the version using git describe. This makes the tag the source-of-truth for the version
   module_json["version"] = gitVersion;
@@ -150,6 +147,7 @@ export const build = async () => {
   await pack();
   await images();
   await files();
+  await moduleJson();
 };
 
 export const clean = async () => {
