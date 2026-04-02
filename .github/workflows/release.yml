@@ -36,6 +36,7 @@ jobs:
           prerelease: false
           generate_release_notes: true
           working_directory: dist
+          fail_on_unmatched_files: true
           files: |
             module.json
             tarot-cards-for-vtt.zip
