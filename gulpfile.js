@@ -123,22 +123,24 @@ export const files = async () => {
 };
 
 export const getGitVersion = async () => {
-  const proc = await run("git", ["describe", "--tags"], {
+  const proc = await run("git", ["describe", "--tags", "--dirty"], {
     stdio: ["inherit", "pipe", "inherit"],
     encoding: "utf-8",
   });
-  return proc.stdout.trim().replace(/^v/, "");
+  return proc.stdout.trim();
 };
 
 export const moduleJson = async () => {
   await fs.ensureDir(path.resolve(".", "dist"));
-  const gitVersion = await getGitVersion();
-  console.log(`Version is: ${gitVersion}`);
+  const gitVersionDescription = await getGitVersion();
+  const moduleVersion = gitVersionDescription.replace(/^v/, "");
+  console.log(`git version is: ${gitVersionDescription}`);
+  console.log(`module version is: ${moduleVersion}`);
   const module_json = await fs.readJson(path.resolve(".", "module.json"));
   // Set the version using git describe. This makes the tag the source-of-truth for the version
-  module_json["version"] = gitVersion;
+  module_json["version"] = moduleVersion;
   module_json["download"] =
-    `https://github.com/${OWNER_ID}/${REPOSITORY_ID}/releases/download/${gitVersion}/${MODULE_ID}.zip`;
+    `https://github.com/${OWNER_ID}/${REPOSITORY_ID}/releases/download/${gitVersionDescription}/${MODULE_ID}.zip`;
   fs.writeJson(path.resolve(".", "dist", "module.json"), module_json);
 };
 
