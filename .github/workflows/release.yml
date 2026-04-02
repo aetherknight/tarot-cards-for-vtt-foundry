@@ -24,7 +24,6 @@ jobs:
           sudo apt-get install zip &&
           pushd dist &&
           zip -r tarot-cards-for-vtt.zip ./* &&
-          mv tarot-cards-for-vtt.zip ../ &&
           popd
       - name: Release (draft)
         uses: softprops/action-gh-release@v2
