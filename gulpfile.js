@@ -129,9 +129,9 @@ export const build = async () => {
   await pack();
   await images();
   await files();
+  await ensureNoDSStore("dist");
 };
 
 export const clean = async () => {
-  await run("find", [".", "-name", ".DS_Store", "-exec", "/bin/rm", "{}", ";"]);
   await fs.remove("dist");
 };
