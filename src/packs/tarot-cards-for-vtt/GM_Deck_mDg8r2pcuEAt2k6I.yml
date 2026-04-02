@@ -1,7 +1,7 @@
 name: GM Deck
 type: deck
 description: The GM's Major Arcana deck for playing His Majesty the Worm
-img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
 cards:
   - _id: MssfCCrFLJ0XpTW6
     name: majorarcana01
@@ -9,12 +9,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: I The Magician
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/01.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana01.avif
         text: ''
     face: 0
     drawn: false
@@ -41,12 +41,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: II The High Priestess
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/02.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana02.avif
         text: ''
     face: 0
     drawn: false
@@ -73,12 +73,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: III The Empress
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/03.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana03.avif
         text: ''
     face: 0
     drawn: false
@@ -105,12 +105,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: IV The Emperor
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/04.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana04.avif
         text: ''
     face: 0
     drawn: false
@@ -137,12 +137,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: V The Hierophant
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/05.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana05.avif
         text: ''
     face: 0
     drawn: false
@@ -169,12 +169,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: VI The Lovers
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/06.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana06.avif
         text: ''
     face: 0
     drawn: false
@@ -201,12 +201,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: VII The Chariot
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/07.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana07.avif
         text: ''
     face: 0
     drawn: false
@@ -233,12 +233,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: VIII Strength
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/08.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana08.avif
         text: ''
     face: 0
     drawn: false
@@ -265,12 +265,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: IX The Hermit
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/09.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana09.avif
         text: ''
     face: 0
     drawn: false
@@ -297,12 +297,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: X The Wheel of Fortune
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/10.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana10.avif
         text: ''
     face: 0
     drawn: false
@@ -329,12 +329,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XI Justice
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/11.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana11.avif
         text: ''
     face: 0
     drawn: false
@@ -361,12 +361,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XII The Hanged Man
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/12.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana12.avif
         text: ''
     face: 0
     drawn: false
@@ -393,12 +393,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XIII Death
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/13.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana13.avif
         text: ''
     face: 0
     drawn: false
@@ -425,12 +425,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XIV Temperance
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/14.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana14.avif
         text: ''
     face: 0
     drawn: false
@@ -457,12 +457,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XV The Devil
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/15.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana15.avif
         text: ''
     face: 0
     drawn: false
@@ -489,12 +489,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XVI The Tower
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/16.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana16.avif
         text: ''
     face: 0
     drawn: false
@@ -521,12 +521,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XVII The Star
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/17.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana17.avif
         text: ''
     face: 0
     drawn: false
@@ -553,12 +553,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XVIII The Moon
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/18.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana18.avif
         text: ''
     face: 0
     drawn: false
@@ -585,12 +585,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XIX The Sun
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/19.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana19.avif
         text: ''
     face: 0
     drawn: false
@@ -617,12 +617,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XX Judgement
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/20.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana20.avif
         text: ''
     face: 0
     drawn: false
@@ -649,12 +649,12 @@ cards:
     type: base
     suit: majorarcana
     back:
-      img: modules/tarot-cards-for-vtt/images/backs-avif/ouroboros.avif
+      img: modules/tarot-cards-for-vtt/images/backs/ouroboros.avif
       name: GM Card
       text: ''
     faces:
       - name: XXI The World
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/21.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana21.avif
         text: ''
     face: 0
     drawn: false

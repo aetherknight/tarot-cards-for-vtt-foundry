@@ -3,7 +3,7 @@ type: deck
 description: >-
   RWS Tarot deck with card faces that use Roman numerals and letters for face
   cards
-img: modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+img: modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
 system: {}
 cards:
   - _id: UqElJF9qbj9Dtqa5
@@ -13,12 +13,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: 00 The Fool
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/00.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana00.avif
         text: ''
     face: 0
     drawn: false
@@ -46,12 +46,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: I The Magician
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/01.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana01.avif
         text: ''
     face: 0
     drawn: false
@@ -79,12 +79,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: II The High Priestess
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/02.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana02.avif
         text: ''
     face: 0
     drawn: false
@@ -112,12 +112,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: III The Empress
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/03.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana03.avif
         text: ''
     face: 0
     drawn: false
@@ -145,12 +145,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: IV The Emperor
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/04.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana04.avif
         text: ''
     face: 0
     drawn: false
@@ -178,12 +178,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: V The Hierophant
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/05.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana05.avif
         text: ''
     face: 0
     drawn: false
@@ -211,12 +211,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: VI The Lovers
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/06.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana06.avif
         text: ''
     face: 0
     drawn: false
@@ -244,12 +244,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: VII The Chariot
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/07.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana07.avif
         text: ''
     face: 0
     drawn: false
@@ -277,12 +277,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: VIII Strength
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/08.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana08.avif
         text: ''
     face: 0
     drawn: false
@@ -310,12 +310,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: IX The Hermit
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/09.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana09.avif
         text: ''
     face: 0
     drawn: false
@@ -343,12 +343,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: X The Wheel of Fortune
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/10.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana10.avif
         text: ''
     face: 0
     drawn: false
@@ -376,12 +376,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XI Justice
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/11.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana11.avif
         text: ''
     face: 0
     drawn: false
@@ -409,12 +409,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XII The Hanged Man
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/12.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana12.avif
         text: ''
     face: 0
     drawn: false
@@ -442,12 +442,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XIII Death
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/13.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana13.avif
         text: ''
     face: 0
     drawn: false
@@ -475,12 +475,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XIV Temperance
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/14.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana14.avif
         text: ''
     face: 0
     drawn: false
@@ -508,12 +508,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XV The Devil
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/15.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana15.avif
         text: ''
     face: 0
     drawn: false
@@ -541,12 +541,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XVI The Tower
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/16.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana16.avif
         text: ''
     face: 0
     drawn: false
@@ -574,12 +574,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XVII The Star
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/17.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana17.avif
         text: ''
     face: 0
     drawn: false
@@ -607,12 +607,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XVIII The Moon
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/18.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana18.avif
         text: ''
     face: 0
     drawn: false
@@ -640,12 +640,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XIX The Sun
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/19.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana19.avif
         text: ''
     face: 0
     drawn: false
@@ -673,12 +673,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XX Judgement
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/20.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana20.avif
         text: ''
     face: 0
     drawn: false
@@ -706,12 +706,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - name: XXI The World
-        img: modules/tarot-cards-for-vtt/images/roman-major-avif/21.avif
+        img: modules/tarot-cards-for-vtt/images/roman/majorarcana21.avif
         text: ''
     face: 0
     drawn: false
@@ -739,12 +739,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups01.avif
+          modules/tarot-cards-for-vtt/images/roman/cups01.avif
         name: Ace of Cups
         text: ''
     face: 0
@@ -773,12 +773,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups02.avif
+          modules/tarot-cards-for-vtt/images/roman/cups02.avif
         name: II of Cups
         text: ''
     face: 0
@@ -807,12 +807,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups03.avif
+          modules/tarot-cards-for-vtt/images/roman/cups03.avif
         name: III of Cups
         text: ''
     face: 0
@@ -841,12 +841,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups04.avif
+          modules/tarot-cards-for-vtt/images/roman/cups04.avif
         name: IV of Cups
         text: ''
     face: 0
@@ -875,12 +875,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups05.avif
+          modules/tarot-cards-for-vtt/images/roman/cups05.avif
         name: V of Cups
         text: ''
     face: 0
@@ -909,12 +909,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups06.avif
+          modules/tarot-cards-for-vtt/images/roman/cups06.avif
         name: VI of Cups
         text: ''
     face: 0
@@ -943,12 +943,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups07.avif
+          modules/tarot-cards-for-vtt/images/roman/cups07.avif
         name: VII of Cups
         text: ''
     face: 0
@@ -977,12 +977,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups08.avif
+          modules/tarot-cards-for-vtt/images/roman/cups08.avif
         name: VIII of Cups
         text: ''
     face: 0
@@ -1011,12 +1011,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups09.avif
+          modules/tarot-cards-for-vtt/images/roman/cups09.avif
         name: IX of Cups
         text: ''
     face: 0
@@ -1045,12 +1045,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups10.avif
+          modules/tarot-cards-for-vtt/images/roman/cups10.avif
         name: X of Cups
         text: ''
     face: 0
@@ -1079,12 +1079,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups11.avif
+          modules/tarot-cards-for-vtt/images/roman/cups11.avif
         name: Page of Cups
         text: ''
     face: 0
@@ -1113,12 +1113,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups12.avif
+          modules/tarot-cards-for-vtt/images/roman/cups12.avif
         name: Knight of Cups
         text: ''
     face: 0
@@ -1147,12 +1147,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups13.avif
+          modules/tarot-cards-for-vtt/images/roman/cups13.avif
         name: Queen of Cups
         text: ''
     face: 0
@@ -1181,12 +1181,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/cups14.avif
+          modules/tarot-cards-for-vtt/images/roman/cups14.avif
         name: King of Cups
         text: ''
     face: 0
@@ -1215,12 +1215,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles01.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles01.avif
         name: Ace of Pentacles
         text: ''
     face: 0
@@ -1249,12 +1249,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles02.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles02.avif
         name: II of Pentacles
         text: ''
     face: 0
@@ -1283,12 +1283,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles03.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles03.avif
         name: III of Pentacles
         text: ''
     face: 0
@@ -1317,12 +1317,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles04.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles04.avif
         name: IV of Pentacles
         text: ''
     face: 0
@@ -1351,12 +1351,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles05.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles05.avif
         name: V of Pentacles
         text: ''
     face: 0
@@ -1385,12 +1385,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles06.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles06.avif
         name: VI of Pentacles
         text: ''
     face: 0
@@ -1419,12 +1419,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles07.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles07.avif
         name: VII of Pentacles
         text: ''
     face: 0
@@ -1453,12 +1453,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles08.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles08.avif
         name: VIII of Pentacles
         text: ''
     face: 0
@@ -1487,12 +1487,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles09.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles09.avif
         name: IX of Pentacles
         text: ''
     face: 0
@@ -1521,12 +1521,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles10.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles10.avif
         name: X of Pentacles
         text: ''
     face: 0
@@ -1555,12 +1555,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles11.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles11.avif
         name: Page of Pentacles
         text: ''
     face: 0
@@ -1589,12 +1589,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles12.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles12.avif
         name: Knight of Pentacles
         text: ''
     face: 0
@@ -1623,12 +1623,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles13.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles13.avif
         name: Queen of Pentacles
         text: ''
     face: 0
@@ -1657,12 +1657,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/pentacles14.avif
+          modules/tarot-cards-for-vtt/images/roman/pentacles14.avif
         name: King of Pentacles
         text: ''
     face: 0
@@ -1691,12 +1691,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords01.avif
+          modules/tarot-cards-for-vtt/images/roman/swords01.avif
         name: Ace of Swords
         text: ''
     face: 0
@@ -1725,12 +1725,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords02.avif
+          modules/tarot-cards-for-vtt/images/roman/swords02.avif
         name: II of Swords
         text: ''
     face: 0
@@ -1759,12 +1759,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords03.avif
+          modules/tarot-cards-for-vtt/images/roman/swords03.avif
         name: III of Swords
         text: ''
     face: 0
@@ -1793,12 +1793,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords04.avif
+          modules/tarot-cards-for-vtt/images/roman/swords04.avif
         name: IV of Swords
         text: ''
     face: 0
@@ -1827,12 +1827,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords05.avif
+          modules/tarot-cards-for-vtt/images/roman/swords05.avif
         name: V of Swords
         text: ''
     face: 0
@@ -1861,12 +1861,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords06.avif
+          modules/tarot-cards-for-vtt/images/roman/swords06.avif
         name: VI of Swords
         text: ''
     face: 0
@@ -1895,12 +1895,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords07.avif
+          modules/tarot-cards-for-vtt/images/roman/swords07.avif
         name: VII of Swords
         text: ''
     face: 0
@@ -1929,12 +1929,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords08.avif
+          modules/tarot-cards-for-vtt/images/roman/swords08.avif
         name: VIII of Swords
         text: ''
     face: 0
@@ -1963,12 +1963,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords09.avif
+          modules/tarot-cards-for-vtt/images/roman/swords09.avif
         name: IX of Swords
         text: ''
     face: 0
@@ -1997,12 +1997,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords10.avif
+          modules/tarot-cards-for-vtt/images/roman/swords10.avif
         name: X of Swords
         text: ''
     face: 0
@@ -2031,12 +2031,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords11.avif
+          modules/tarot-cards-for-vtt/images/roman/swords11.avif
         name: Page of Swords
         text: ''
     face: 0
@@ -2065,12 +2065,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords12.avif
+          modules/tarot-cards-for-vtt/images/roman/swords12.avif
         name: Knight of Swords
         text: ''
     face: 0
@@ -2099,12 +2099,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords13.avif
+          modules/tarot-cards-for-vtt/images/roman/swords13.avif
         name: Queen of Swords
         text: ''
     face: 0
@@ -2133,12 +2133,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/swords14.avif
+          modules/tarot-cards-for-vtt/images/roman/swords14.avif
         name: King of Swords
         text: ''
     face: 0
@@ -2167,12 +2167,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands01.avif
+          modules/tarot-cards-for-vtt/images/roman/wands01.avif
         name: Ace of Wands
         text: ''
     face: 0
@@ -2201,12 +2201,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands02.avif
+          modules/tarot-cards-for-vtt/images/roman/wands02.avif
         name: II of Wands
         text: ''
     face: 0
@@ -2235,12 +2235,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands03.avif
+          modules/tarot-cards-for-vtt/images/roman/wands03.avif
         name: III of Wands
         text: ''
     face: 0
@@ -2269,12 +2269,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands04.avif
+          modules/tarot-cards-for-vtt/images/roman/wands04.avif
         name: IV of Wands
         text: ''
     face: 0
@@ -2303,12 +2303,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands05.avif
+          modules/tarot-cards-for-vtt/images/roman/wands05.avif
         name: V of Wands
         text: ''
     face: 0
@@ -2337,12 +2337,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands06.avif
+          modules/tarot-cards-for-vtt/images/roman/wands06.avif
         name: VI of Wands
         text: ''
     face: 0
@@ -2371,12 +2371,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands07.avif
+          modules/tarot-cards-for-vtt/images/roman/wands07.avif
         name: VII of Wands
         text: ''
     face: 0
@@ -2405,12 +2405,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands08.avif
+          modules/tarot-cards-for-vtt/images/roman/wands08.avif
         name: VIII of Wands
         text: ''
     face: 0
@@ -2439,12 +2439,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands09.avif
+          modules/tarot-cards-for-vtt/images/roman/wands09.avif
         name: IX of Wands
         text: ''
     face: 0
@@ -2473,12 +2473,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands10.avif
+          modules/tarot-cards-for-vtt/images/roman/wands10.avif
         name: X of Wands
         text: ''
     face: 0
@@ -2507,12 +2507,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands11.avif
+          modules/tarot-cards-for-vtt/images/roman/wands11.avif
         name: Page of Wands
         text: ''
     face: 0
@@ -2541,12 +2541,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands12.avif
+          modules/tarot-cards-for-vtt/images/roman/wands12.avif
         name: Knight of Wands
         text: ''
     face: 0
@@ -2575,12 +2575,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands13.avif
+          modules/tarot-cards-for-vtt/images/roman/wands13.avif
         name: Queen of Wands
         text: ''
     face: 0
@@ -2609,12 +2609,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Roman Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/roman-minor-avif/wands14.avif
+          modules/tarot-cards-for-vtt/images/roman/wands14.avif
         name: King of Wands
         text: ''
     face: 0

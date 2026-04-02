@@ -1,7 +1,7 @@
 name: TCfVTT Tarot Deck (Arabic Numerals)
 type: deck
 description: RWS Tarot deck with card faces that use Arabic numerals for all cards
-img: modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+img: modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
 system: {}
 cards:
   - _id: xR5n5lnGNmeh4A3t
@@ -11,12 +11,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: 00 The Fool
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/00.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana00.avif
         text: ''
     face: 0
     drawn: false
@@ -44,12 +44,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: I The Magician
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/01.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana01.avif
         text: ''
     face: 0
     drawn: false
@@ -77,12 +77,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: II The High Priestess
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/02.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana02.avif
         text: ''
     face: 0
     drawn: false
@@ -110,12 +110,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: III The Empress
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/03.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana03.avif
         text: ''
     face: 0
     drawn: false
@@ -143,12 +143,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: IV The Emperor
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/04.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana04.avif
         text: ''
     face: 0
     drawn: false
@@ -176,12 +176,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: V The Hierophant
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/05.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana05.avif
         text: ''
     face: 0
     drawn: false
@@ -209,12 +209,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: VI The Lovers
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/06.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana06.avif
         text: ''
     face: 0
     drawn: false
@@ -242,12 +242,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: VII The Chariot
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/07.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana07.avif
         text: ''
     face: 0
     drawn: false
@@ -275,12 +275,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: VIII Strength
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/08.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana08.avif
         text: ''
     face: 0
     drawn: false
@@ -308,12 +308,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: IX The Hermit
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/09.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana09.avif
         text: ''
     face: 0
     drawn: false
@@ -341,12 +341,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: X The Wheel of Fortune
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/10.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana10.avif
         text: ''
     face: 0
     drawn: false
@@ -374,12 +374,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XI Justice
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/11.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana11.avif
         text: ''
     face: 0
     drawn: false
@@ -407,12 +407,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XII The Hanged Man
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/12.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana12.avif
         text: ''
     face: 0
     drawn: false
@@ -440,12 +440,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XIII Death
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/13.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana13.avif
         text: ''
     face: 0
     drawn: false
@@ -473,12 +473,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XIV Temperance
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/14.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana14.avif
         text: ''
     face: 0
     drawn: false
@@ -506,12 +506,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XV The Devil
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/15.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana15.avif
         text: ''
     face: 0
     drawn: false
@@ -539,12 +539,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XVI The Tower
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/16.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana16.avif
         text: ''
     face: 0
     drawn: false
@@ -572,12 +572,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XVII The Star
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/17.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana17.avif
         text: ''
     face: 0
     drawn: false
@@ -605,12 +605,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XVIII The Moon
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/18.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana18.avif
         text: ''
     face: 0
     drawn: false
@@ -638,12 +638,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XIX The Sun
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/19.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana19.avif
         text: ''
     face: 0
     drawn: false
@@ -671,12 +671,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XX Judgement
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/20.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana20.avif
         text: ''
     face: 0
     drawn: false
@@ -704,12 +704,12 @@ cards:
     suit: majorarcana
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - name: XXI The World
-        img: modules/tarot-cards-for-vtt/images/arabic-major-avif/21.avif
+        img: modules/tarot-cards-for-vtt/images/arabic/majorarcana21.avif
         text: ''
     face: 0
     drawn: false
@@ -737,12 +737,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups01.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups01.avif
         name: Ace of Cups
         text: ''
     face: 0
@@ -771,12 +771,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups02.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups02.avif
         name: II of Cups
         text: ''
     face: 0
@@ -805,12 +805,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups03.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups03.avif
         name: III of Cups
         text: ''
     face: 0
@@ -839,12 +839,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups04.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups04.avif
         name: IV of Cups
         text: ''
     face: 0
@@ -873,12 +873,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups05.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups05.avif
         name: V of Cups
         text: ''
     face: 0
@@ -907,12 +907,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups06.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups06.avif
         name: VI of Cups
         text: ''
     face: 0
@@ -941,12 +941,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups07.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups07.avif
         name: VII of Cups
         text: ''
     face: 0
@@ -975,12 +975,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups08.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups08.avif
         name: VIII of Cups
         text: ''
     face: 0
@@ -1009,12 +1009,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups09.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups09.avif
         name: IX of Cups
         text: ''
     face: 0
@@ -1043,12 +1043,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups10.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups10.avif
         name: X of Cups
         text: ''
     face: 0
@@ -1077,12 +1077,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups11.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups11.avif
         name: Page of Cups
         text: ''
     face: 0
@@ -1111,12 +1111,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups12.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups12.avif
         name: Knight of Cups
         text: ''
     face: 0
@@ -1145,12 +1145,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups13.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups13.avif
         name: Queen of Cups
         text: ''
     face: 0
@@ -1179,12 +1179,12 @@ cards:
     suit: cups
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/cups14.avif
+          modules/tarot-cards-for-vtt/images/arabic/cups14.avif
         name: King of Cups
         text: ''
     face: 0
@@ -1213,12 +1213,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles01.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles01.avif
         name: Ace of Pentacles
         text: ''
     face: 0
@@ -1247,12 +1247,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles02.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles02.avif
         name: II of Pentacles
         text: ''
     face: 0
@@ -1281,12 +1281,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles03.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles03.avif
         name: III of Pentacles
         text: ''
     face: 0
@@ -1315,12 +1315,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles04.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles04.avif
         name: IV of Pentacles
         text: ''
     face: 0
@@ -1349,12 +1349,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles05.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles05.avif
         name: V of Pentacles
         text: ''
     face: 0
@@ -1383,12 +1383,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles06.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles06.avif
         name: VI of Pentacles
         text: ''
     face: 0
@@ -1417,12 +1417,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles07.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles07.avif
         name: VII of Pentacles
         text: ''
     face: 0
@@ -1451,12 +1451,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles08.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles08.avif
         name: VIII of Pentacles
         text: ''
     face: 0
@@ -1485,12 +1485,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles09.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles09.avif
         name: IX of Pentacles
         text: ''
     face: 0
@@ -1519,12 +1519,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles10.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles10.avif
         name: X of Pentacles
         text: ''
     face: 0
@@ -1553,12 +1553,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles11.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles11.avif
         name: Page of Pentacles
         text: ''
     face: 0
@@ -1587,12 +1587,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles12.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles12.avif
         name: Knight of Pentacles
         text: ''
     face: 0
@@ -1621,12 +1621,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles13.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles13.avif
         name: Queen of Pentacles
         text: ''
     face: 0
@@ -1655,12 +1655,12 @@ cards:
     suit: pentacles
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/pentacles14.avif
+          modules/tarot-cards-for-vtt/images/arabic/pentacles14.avif
         name: King of Pentacles
         text: ''
     face: 0
@@ -1689,12 +1689,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords01.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords01.avif
         name: Ace of Swords
         text: ''
     face: 0
@@ -1723,12 +1723,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords02.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords02.avif
         name: II of Swords
         text: ''
     face: 0
@@ -1757,12 +1757,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords03.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords03.avif
         name: III of Swords
         text: ''
     face: 0
@@ -1791,12 +1791,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords04.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords04.avif
         name: IV of Swords
         text: ''
     face: 0
@@ -1825,12 +1825,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords05.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords05.avif
         name: V of Swords
         text: ''
     face: 0
@@ -1859,12 +1859,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords06.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords06.avif
         name: VI of Swords
         text: ''
     face: 0
@@ -1893,12 +1893,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords07.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords07.avif
         name: VII of Swords
         text: ''
     face: 0
@@ -1927,12 +1927,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords08.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords08.avif
         name: VIII of Swords
         text: ''
     face: 0
@@ -1961,12 +1961,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords09.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords09.avif
         name: IX of Swords
         text: ''
     face: 0
@@ -1995,12 +1995,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords10.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords10.avif
         name: X of Swords
         text: ''
     face: 0
@@ -2029,12 +2029,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords11.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords11.avif
         name: Page of Swords
         text: ''
     face: 0
@@ -2063,12 +2063,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords12.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords12.avif
         name: Knight of Swords
         text: ''
     face: 0
@@ -2097,12 +2097,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords13.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords13.avif
         name: Queen of Swords
         text: ''
     face: 0
@@ -2131,12 +2131,12 @@ cards:
     suit: swords
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/swords14.avif
+          modules/tarot-cards-for-vtt/images/arabic/swords14.avif
         name: King of Swords
         text: ''
     face: 0
@@ -2165,12 +2165,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands01.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands01.avif
         name: Ace of Wands
         text: ''
     face: 0
@@ -2199,12 +2199,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands02.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands02.avif
         name: II of Wands
         text: ''
     face: 0
@@ -2233,12 +2233,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands03.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands03.avif
         name: III of Wands
         text: ''
     face: 0
@@ -2267,12 +2267,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands04.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands04.avif
         name: IV of Wands
         text: ''
     face: 0
@@ -2301,12 +2301,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands05.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands05.avif
         name: V of Wands
         text: ''
     face: 0
@@ -2335,12 +2335,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands06.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands06.avif
         name: VI of Wands
         text: ''
     face: 0
@@ -2369,12 +2369,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands07.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands07.avif
         name: VII of Wands
         text: ''
     face: 0
@@ -2403,12 +2403,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands08.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands08.avif
         name: VIII of Wands
         text: ''
     face: 0
@@ -2437,12 +2437,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands09.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands09.avif
         name: IX of Wands
         text: ''
     face: 0
@@ -2471,12 +2471,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands10.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands10.avif
         name: X of Wands
         text: ''
     face: 0
@@ -2505,12 +2505,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands11.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands11.avif
         name: Page of Wands
         text: ''
     face: 0
@@ -2539,12 +2539,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands12.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands12.avif
         name: Knight of Wands
         text: ''
     face: 0
@@ -2573,12 +2573,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands13.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands13.avif
         name: Queen of Wands
         text: ''
     face: 0
@@ -2607,12 +2607,12 @@ cards:
     suit: wands
     back:
       img: >-
-        modules/tarot-cards-for-vtt/images/backs-avif/roses-lilies.avif
+        modules/tarot-cards-for-vtt/images/backs/roses-lilies.avif
       name: TCfVTT Tarot Card (Arabic Numerals)
       text: ''
     faces:
       - img: >-
-          modules/tarot-cards-for-vtt/images/arabic-minor-avif/wands14.avif
+          modules/tarot-cards-for-vtt/images/arabic/wands14.avif
         name: King of Wands
         text: ''
     face: 0
