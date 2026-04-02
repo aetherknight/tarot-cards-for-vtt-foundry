@@ -35,6 +35,7 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: true
           prerelease: false
+          generate_release_notes: true
           working_directory: dist
           files: |
             module.json
