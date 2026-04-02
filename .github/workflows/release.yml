@@ -2,7 +2,7 @@ name: Release
 on:
   push:
     tags:
-      - '*'
+      - 'v*'
 jobs:
   build_release:
     runs-on: ubuntu-latest
@@ -19,11 +19,6 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - name: Update module.json
-        run: |
-          VERSION=$(echo ${{ github.ref }} | sed 's/refs\/tags\///')
-          jq --arg DOWNLOAD_URL "https://github.com/${{ github.repository }}/releases/download/${VERSION}/tarot-cards-for-vtt.zip" \
-            '.download = $DOWNLOAD_URL' dist/module.json > dist/temp.json && mv dist/temp.json dist/module.json
       - name: create zip
         run: |
           sudo apt-get install zip &&

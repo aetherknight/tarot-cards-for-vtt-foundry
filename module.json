@@ -1,7 +1,7 @@
 {
   "id": "tarot-cards-for-vtt",
   "title": "Tarot Cards for VTT",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"

@@ -3,6 +3,8 @@ import path from "path";
 
 import fs from "fs-extra";
 
+const OWNER_ID = "aetherknight";
+const REPOSITORY_ID = "tarot-cards-for-vtt-foundry";
 const MODULE_ID = "tarot-cards-for-vtt";
 
 const run = async (
@@ -122,6 +124,25 @@ export const files = async () => {
   for (const [src, dest] of filesToCopy) {
     await fs.copy(src, dest);
   }
+};
+
+export const getGitVersion = async () => {
+  const proc = await run("git", ["describe"], {
+    stdio: ["inherit", "pipe", "inherit"],
+    encoding: "utf-8",
+  });
+  return proc.stdout.replace(/^v/, "");
+};
+
+export const moduleJson = async () => {
+  await fs.ensureDir(path.resolve(".", "dist"));
+  const gitVersion = await getGitVersion();
+  const module_json = await fs.readJson(path.resolve(".", "module.json"));
+  // Set the version using git describe. This makes the tag the source-of-truth for the version
+  module_json["version"] = gitVersion;
+  module_json["download"] =
+    `https://github.com/${OWNER_ID}/${REPOSITORY_ID}/releases/download/${gitVersion}/${MODULE_ID}.zip`;
+  fs.writeJson(path.resolve(".", "dist", "module.json"), module_json);
 };
 
 export const build = async () => {
