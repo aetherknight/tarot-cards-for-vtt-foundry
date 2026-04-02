@@ -12,9 +12,9 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Use Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           cache: npm
       - run: npm ci
@@ -26,9 +26,8 @@ jobs:
           zip -r tarot-cards-for-vtt.zip ./* &&
           mv tarot-cards-for-vtt.zip ../ &&
           popd
-      - name: Create Release (draft)
-        id: create_release
-        uses: actions/create-release@v1
+      - name: Release (draft)
+        uses: oftprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -36,24 +35,8 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: true
           prerelease: false
-      - name: Add module.json to Release
-        id: upload_module_json
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: dist/module.json
-          asset_name: module.json
-          asset_content_type: applicaton/json
-      - name: Add zip to Release
-        id: upload_release_zip
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./tarot-cards-for-vtt.zip
-          asset_name: tarot-cards-for-vtt.zip
-          asset_content_type: application/zip
+          working_directory: dist
+          files: |
+            module.json
+            tarot-cards-for-vtt.zip
       # TODO: autopublish to foundry registry?
